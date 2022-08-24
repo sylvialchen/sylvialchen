@@ -17,18 +17,25 @@ The projects deployed here will be related to classwork, homework and projects
 * Eyes make moon shapes while laughing
 * sometimes glasses, sometimes contacts
 
-## Whiteboard Images
-* [Here's one](https://secure.img1-fg.wfcdn.com/im/20558479/resize-h445%5Ecompr-r85/6942/69425333/Platinum+Reversible+Free+Standing+Mobile+Whiteboard%252C+79.5%2522+x+79.75%2522.jpg)
+## Screenshot(s)
+![image](https://user-images.githubusercontent.com/101881486/186455957-1419a458-2465-42d2-b71d-e0056eb1ac0c.png)
 
-## Trello Planning
-* [Advancements to be made](https://www.linkedin.com/in/sylvialchen/)
+
+## Getting Started
+* Yes, I am just getting started
+* I hear that Coding is beneficial to neuro health
 
 ## Design
+* Successful at creating processes, receiving passes from several professional auditors
 * Bootstrap (beginner)
 
 ## Project Next Steps
 * Learn more
 * Complete bootcamp
+
+
+## Future Enhancements
+* Professional adjustments being made [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
 
 ## Works Cited:
 * N/A
