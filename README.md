@@ -8,7 +8,7 @@ The projects deployed here will be related to classwork, homework and projects
 
 ## Technologies Used
 * C
-* JavaScript
+* JavaScript/EJS
 * HTML5
 * CSS3
 * jQuery
@@ -26,7 +26,7 @@ The projects deployed here will be related to classwork, homework and projects
 * I hear that Coding is beneficial to neuro health
 
 ## Design
-* Successful at creating processes, receiving passes from several professional auditors
+* Successful at creating processes, receiving passes from several professional auditors for data integrity
 * Bootstrap (beginner)
 
 ## Project Next Steps
