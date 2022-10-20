@@ -17,10 +17,6 @@ The projects deployed here will be related to classwork, homework and projects
 * Eyes make moon shapes while laughing
 * sometimes glasses, sometimes contacts
 
-## Screenshot(s)
-![image](https://user-images.githubusercontent.com/101881486/186455957-1419a458-2465-42d2-b71d-e0056eb1ac0c.png)
-
-
 ## Getting Started
 * Yes, I am just getting started
 * I hear that Coding is beneficial to neuro health
@@ -43,4 +39,3 @@ The projects deployed here will be related to classwork, homework and projects
 ## About The Author
 Former People person. Math & logic lover. 
 There's joy that comes with the ability to write elegant code.
-Currently working on "this" && moving syntax towards "forEach."
