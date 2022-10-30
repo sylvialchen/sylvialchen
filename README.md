@@ -7,11 +7,14 @@ I started coding this year and I ***haven't been able to stop***. I enjoy breaki
 The projects deployed here will be related to classwork, homework and projects
 
 ## Technologies Used
-* C
+* Python
 * JavaScript/EJS
+* Typescript
+* C
 * HTML5
 * CSS3
 * jQuery
+* Plotly
 
 ## Features
 * Eyes make moon shapes while laughing
@@ -23,11 +26,6 @@ The projects deployed here will be related to classwork, homework and projects
 
 ## Design
 * Successful at creating processes, receiving passes from several professional auditors for data integrity
-* Bootstrap (beginner)
-
-## Project Next Steps
-* Learn more
-* Complete bootcamp
 
 
 ## Future Enhancements
