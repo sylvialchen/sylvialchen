@@ -31,4 +31,3 @@ There's joy that comes with the ability to write elegant code.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvialchen&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sylvialchen&count_private=true&theme=tokyonight&showicons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvialchen&theme=dark)](https://git.io/streak-stats)
