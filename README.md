@@ -16,24 +16,19 @@ The projects deployed here will be related to classwork, homework and projects
 * jQuery
 * Plotly
 
-## Features
-* Eyes make moon shapes while laughing
-* sometimes glasses, sometimes contacts
-
-## Getting Started
-* Yes, I am just getting started
-* I hear that Coding is beneficial to neuro health
 
 ## Design
 * Successful at creating processes, receiving passes from several professional auditors for data integrity
 
 
 ## Future Enhancements
-* Professional adjustments being made [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
+* [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
 
-## Works Cited:
-* N/A
 
 ## About The Author
 Former People person. Math & logic lover. 
 There's joy that comes with the ability to write elegant code.
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvialchen&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sylvialchen&count_private=true&theme=tokyonight&showicons=true)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvialchen&theme=dark)](https://git.io/streak-stats)
