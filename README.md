@@ -1,10 +1,10 @@
 #### Hi there 👋
 
-I started coding this year and I ***haven't been able to stop***. I enjoy breaking problems down to smaller pieces and puzzling solutions. I am currently building a chinese card game which can be viewed [here](https://github.com/sylvialchen/bo-bo-card-game).
+I started coding this year and I ***haven't been able to stop***. I enjoy breaking problems down to smaller pieces and puzzling solutions. I am currently open to building solutions that can help you and your team!
 
-### I'm a Software Engineering Bootcamp Student
+### I'm a Software Engineering Bootcamp Graduate
 
-The projects deployed here will be related to classwork, homework and projects
+The projects deployed here are related to classwork, homework and projects
 
 ## Technologies Used
 * Python
