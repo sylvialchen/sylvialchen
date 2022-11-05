@@ -21,11 +21,8 @@ The projects deployed here are related to classwork, homework and projects
 * Successful at creating processes, receiving passes from several professional auditors for data integrity
 
 
-## Future Enhancements
-* [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
-
-
 ## About The Author
+* [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
 Former People person. Math & logic lover. 
 There's joy that comes with the ability to write elegant code.
 
