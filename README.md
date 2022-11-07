@@ -1,6 +1,9 @@
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/101881486/200353230-8c2dcdc2-7a9d-4a2b-9418-3f3834615ae4.png">
+
+
 #### Hi there 👋
 
-I started coding this year and I ***haven't been able to stop***. I enjoy breaking problems down to smaller pieces and puzzling solutions. I am currently open to building solutions that can help you and your team!
+I started coding this year and I ***haven't been able to stop***. I enjoy breaking problems down to smaller pieces and puzzling solutions and I'm currently open to building solutions that can help you and your team(s)!
 
 ### I'm a Software Engineering Bootcamp Graduate
 
