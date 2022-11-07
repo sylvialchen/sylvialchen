@@ -19,15 +19,11 @@ The projects deployed here are related to classwork, homework and projects
 * jQuery
 * Plotly
 
-
-## Design
-* Successful at creating processes, receiving passes from several professional auditors for data integrity
-
-
 ## About The Author
+* Successful at creating processes, receiving passes from several professional auditors for data integrity
 * [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
-Former People person. Math & logic lover. 
-There's joy that comes with the ability to write elegant code.
+* Former People person. Math & logic lover. 
+* There's joy that comes with the ability to write elegant code.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvialchen&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sylvialchen&count_private=true&theme=tokyonight&showicons=true)]()
