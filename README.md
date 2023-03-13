@@ -5,8 +5,6 @@
 
 I started coding this year and I ***haven't been able to stop***. I enjoy breaking problems down to smaller pieces and puzzling solutions and I'm currently open to building solutions that can help you and your team(s)!
 
-### I'm a Software Engineering Bootcamp Graduate
-
 The projects deployed here are related to classwork, homework and projects
 
 ## Technologies Used
