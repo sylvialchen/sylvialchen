@@ -3,7 +3,7 @@
 
 #### Hi 👋
 
-I started coding last year and I ***haven't been able to stop***. I enjoy breaking down concepts into clear, well-thought out objects (models, components, or entities), then puzzling solutions accordingly. I definitely love a good ERD, where corporate/people-processes ERDs have been in my wheelhouse from my prior specialty. I love a good challenge, and I'm currently open to building solutions that can help you and your team(s)!
+I started coding last year and I ***haven't been able to stop***. I enjoy breaking down concepts into clear, well-thought out objects (models, components, or entities), then puzzling solutions accordingly. I definitely love a good ERD, where corporate and people processes have been in my wheelhouse as a career switcher. I like a good challenge, but moreover, I love a good solution. I'm currently open to building products and features that can help you and your team(s)!
 
 The projects deployed here are related to classwork, homework and projects
 
@@ -19,10 +19,9 @@ The projects deployed here are related to classwork, homework and projects
 * Plotly
 
 ## About The Author
-* Successful at creating processes, receiving passes from several professional auditors for data integrity
+* Successful at creating processes, receiving passes from several 3 of the 4 Big Auditors for data integrity
 * [LinkedIn](https://www.linkedin.com/in/sylvialchen/)
-* Former People person. Math, logic & process lover. 
-* There's joy that comes with the ability to write elegant, readable code.
+* Currently not as active on GH: Learning Go
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvialchen&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sylvialchen&count_private=true&theme=tokyonight&showicons=true)]()
