@@ -1,5 +1,5 @@
-<img width="1266" alt="image" src="https://user-images.githubusercontent.com/101881486/200353230-8c2dcdc2-7a9d-4a2b-9418-3f3834615ae4.png">
 
+![taan-huyn-X9kU8Q3RQxM-unsplash](https://github.com/sylvialchen/sylvialchen/assets/101881486/e1fa5fcd-7965-4188-b694-cae0ce203e42)
 
 #### Hi 👋
 
