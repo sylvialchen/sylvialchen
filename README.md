@@ -1,5 +1,5 @@
 
-![taan-huyn-X9kU8Q3RQxM-unsplash](https://github.com/sylvialchen/sylvialchen/assets/101881486/e1fa5fcd-7965-4188-b694-cae0ce203e42)
+![Screen Shot 2023-06-23 at 10 00 41 AM](https://github.com/sylvialchen/sylvialchen/assets/101881486/dd4f982a-d6d9-44ec-a306-040a78a29794)
 
 #### Hi 👋
 
