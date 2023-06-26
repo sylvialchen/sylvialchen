@@ -3,7 +3,7 @@
 
 #### Hi 👋
 
-I started coding last year and I ***haven't been able to stop***. I enjoy breaking down concepts into clear, well-thought out objects (models, components, or entities), then puzzling solutions accordingly. I definitely love a good ERD, where corporate and people processes have been in my wheelhouse as a career switcher. I like a good challenge, but moreover, I love a good solution. I'm currently open to building products and features that can help you and your team(s)!
+I started coding last year and I ***haven't been able to stop***. I enjoy breaking down concepts into clear, well-thought out objects (models, components, or entities), then building out or puzzling solutions accordingly. I love a good ERD because mapping out corporate and people processes have been in my wheelhouse as a career switcher. I'm currently open to building products and features that can help you and your team(s)!
 
 The projects deployed here are related to classwork, homework and projects
 
